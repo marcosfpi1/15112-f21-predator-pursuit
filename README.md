@@ -1,3 +1,3 @@
 # Predator Pursuit
-### By Marcos Pi Marrero
+By Marcos Pi Marrero
 
