@@ -12,5 +12,5 @@
 ### Required Modules:
       - PIL/Pillow
       
-### To Run:
+### Files to Run:
       - Predator_Pursuit.py
