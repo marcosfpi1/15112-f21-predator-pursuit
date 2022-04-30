@@ -3,7 +3,6 @@
 # By Marcos Pi Marrero
 #################################################
 
-import math, copy, random, time, os
 from cmu_112_graphics import *
 from PP_App_Start import *
 from PP_Main_Menu import *
